@@ -247,8 +247,8 @@ class WZMLStyle:
     NO_ACTIVE_DL = '''<i>No Active Downloads!</i>
     
 ⌬ <b><i>Bot Stats</i></b>
-┠ <b>📉CPU:</b> {cpu}% | <b>F:</b> {free} [{free_p}%]
-┖ <b>🌐RAM:</b> {ram} | <b>📈UPTIME:</b> {uptime}
+┠ <b>📊ᴄᴘᴜ:</b> {cpu}% | <b>F:</b> {free} [{free_p}%]
+┖ <b>🌐ʀᴀᴍ:</b> {ram} | <b>📈UPTIME:</b> {uptime}
     '''
     # ---------------------
 
