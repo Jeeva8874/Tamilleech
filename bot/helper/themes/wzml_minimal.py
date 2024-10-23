@@ -176,17 +176,17 @@ class WZMLStyle:
     STATUS_NAME =       '<b><i>{Name}</i></b>'
 
     #####---------PROGRESSIVE STATUS-------
-    FOOTER =            '\n┎━━━━ « Tᴀᴍɪʟ×Lᴇᴇᴄʜ » ━━━━༻
     BAR =               '\n┃ {Bar}'
-    PROCESSED =         '\n┠⚡<b>ᴘʀᴏᴄᴇssᴇᴅ:</b> {Processed}'
-    STATUS =            '\n┠🪄<b>sᴛᴀᴛᴜs:</b> <a href="{Url}">{Status}</a>'
-    ETA =               '\n┠⏳<b>ETA:</b> {Eta}'
-    SPEED =             '\n┠🚀<b>sᴘᴇᴇᴅ:</b> {Speed}'
-    ELAPSED =           '\n┠🕓<b>ᴇʟᴀᴘsᴇᴅ:</b> {Elapsed}'
-    ENGINE =            '\n┠🪩<b>ᴇɴɢɪɴᴇ:</b> {Engine ki}'
-    STA_MODE =          '\n┠🌐<b>ᴍᴏᴅᴇ:</b> {Mode}'
-    SEEDERS =           '\n┠🌱<b>sᴇᴇᴅᴇʀs:</b> {Seeders}' 
-    LEECHERS =          '\n┠☘️<b>ʟᴇᴇᴄʜᴇʀs:</b> {Leechers}'
+    PROCESSED =         '\n┠ <b>⚡ᴘʀᴏᴄᴇssᴇᴅ:</b> {Processed}'
+    STATUS =            '\n┠ <b>🪄sᴛᴀᴛᴜs:</b> <a href="{Url}">{Status}</a>'
+    ETA =               '\n┠ <b>⏳ETA:</b> {Eta}'
+    SPEED =             '\n┠ <b>🚀sᴘᴇᴇᴅ:</b> {Speed}'
+    ELAPSED =           '\n┠ <b>🕓ᴇʟᴀᴘsᴇᴅ:</b> {Elapsed}'
+    ENGINE =            '\n┠ <b>🪩ᴇɴɢɪɴᴇ:</b> {Engine}'
+    STA_MODE =          '\n┠ <b>🌐ᴍᴏᴅᴇ:</b> {Mode}'
+    SEEDERS =           '\n┠ <b>🌱sᴇᴇᴅᴇʀs:</b> {Seeders}'
+    LEECHERS =          '\n┠ <b>☘️ʟᴇᴇᴄʜᴇʀs:</b> {Leechers}'
+    
 
     ####--------SEEDING----------
     SEED_SIZE =      '\n┠ <b>Sɪᴢᴇ: </b>{Size}'
