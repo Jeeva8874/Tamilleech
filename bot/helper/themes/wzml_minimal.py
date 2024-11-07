@@ -180,7 +180,7 @@ class WZMLStyle:
 
     # def get_readable_message(): ---> bot_utilis.py
     ####--------OVERALL MSG HEADER----------
-    STATUS_NAME =       '<b><i>{Name}</i></b>\n┎━━━━ « <a href="https://t.me/+1JK-qrifPfVhY2M1"><b>𝐓𝐚𝐦𝐢𝐥 ✗ 𝐋𝐞𝐞𝐜𝐡</b></a>» ━━━━༻'
+    STATUS_NAME =       '<b>🎥ɴᴀᴍᴇ: :</b> <code>{Name}</code>\n┎━━━━ « <a href="https://t.me/+1JK-qrifPfVhY2M1"><b>𝐓𝐚𝐦𝐢𝐥 ✗ 𝐋𝐞𝐞𝐜𝐡</b></a>» ━━━━༻'
 
     #####---------PROGRESSIVE STATUS-------
     BAR =               '\n┃ {Bar}'
@@ -211,7 +211,7 @@ class WZMLStyle:
     USER =           '\n┠ <b>🪪ᴜsᴇʀ:</b> <code>{User}</code>'
     ID =             '\n┠ <b>🆔ɪᴅ:</b> <code>{Id}</code>'
     BTSEL =          '\n┠ <b>💫sᴇʟᴇᴄᴛ:</b> {Btsel}'
-    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/+1JK-qrifPfVhY2M1"><b>𝐓𝐚𝐦𝐢𝐥 ✗ 𝐋𝐞𝐞𝐜𝐡</b></a>» ━━━━༻'
+    CANCEL =         '\n┠ {Cancel}\n┖━━━━ « <a href="https://t.me/+1JK-qrifPfVhY2M1"><b>𝐓𝐚𝐦𝐢𝐥 ✗ 𝐋𝐞𝐞𝐜𝐡</b></a>» ━━━━༻\n'
 
     ####------FOOTER--------
     FOOTER = '⌬ <b><i>ʙᴏᴛ sᴛᴀᴛs</i></b>\n'
